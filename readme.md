@@ -9,7 +9,7 @@ Przedstawienie podstawowej składni i struktury języka oraz użycie nabytej wie
 # Przykładowe zrzuty ekranu
 
 ## okno główne
-![mainwindow](images\main-window.png)
+![mainwindow](images/main-window.png)
 
 ## okno wydruku
-![printorder](images\print-order.png)
+![printorder](images/print-order.png)
